@@ -53,7 +53,7 @@ export default function SD() {
                 <div className="chat-bubble min-h-0  p-0 bg-blue-400"></div>
               </div>
             </span>
-            GPT! <span className="text-xs text-red-400">体验版</span>
+            GPT! <span className="text-xs text-red-400">pro版</span>
           </div>
           <div></div>
         </h1>
